@@ -14,12 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD in Computational Finance
+#Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Centre for Computational Finance and Economic Agents (CCFEA), University of Essex
+    url: https://www.essex.ac.uk/centres-and-institutes/computational-finance-and-economic-agents
+    #https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
