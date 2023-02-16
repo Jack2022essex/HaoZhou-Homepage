@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Hao Zhou 周昊
 
 # Full name (for SEO)
 first_name: Hao
